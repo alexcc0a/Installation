@@ -1,0 +1,12 @@
+2022-01-02T16:31:00.341111300: new directory - src
+2022-01-02T16:31:00.398116100: new directory - res
+2022-01-02T16:31:00.416118500: new directory - savegames
+2022-01-02T16:31:00.421118700: new directory - temp
+2022-01-02T16:31:00.423118800: new directory - main
+2022-01-02T16:31:00.429119: new directory - test
+2022-01-02T16:31:00.431118300: new directory - drawables
+2022-01-02T16:31:00.437119500: new directory - vectors
+2022-01-02T16:31:00.437119500: new directory - icons
+2022-01-02T16:31:00.438119300: new file - Main.java
+2022-01-02T16:31:00.443120100: new file - Utils.java
+2022-01-02T16:31:00.443120100: new file - temp.txt
